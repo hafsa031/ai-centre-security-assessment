@@ -1,0 +1,27 @@
+{
+  "domain_name": null,
+  "registrar": null,
+  "registrar_url": null,
+  "reseller": null,
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": null,
+  "creation_date": "2023-10-23 00:00:00",
+  "expiration_date": "2025-10-23 00:00:00",
+  "name_servers": [
+    "ns1.stackdns.com",
+    "ns2.stackdns.com",
+    "ns3.stackdns.com",
+    "ns4.stackdns.com"
+  ],
+  "status": "Domain is Registered",
+  "emails": null,
+  "dnssec": null,
+  "name": null,
+  "org": null,
+  "address": null,
+  "city": null,
+  "state": null,
+  "registrant_postal_code": null,
+  "country": null
+}

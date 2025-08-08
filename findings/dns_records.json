@@ -1,0 +1,11 @@
+{
+  "A": [
+    "185.151.30.202"
+  ],
+  "MX": [
+    "10 mx.stackmail.com."
+  ],
+  "TXT": [
+    "\"v=spf1 include:spf.stackmail.com a mx -all\""
+  ]
+}

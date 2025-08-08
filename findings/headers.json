@@ -1,0 +1,15 @@
+{
+  "date": "Fri, 08 Aug 2025 05:46:45 GMT",
+  "content-type": "text/html; charset=UTF-8",
+  "vary": "Accept-Encoding, Accept-Encoding",
+  "server": "Apache",
+  "x-powered-by": "PHP/7.4.33",
+  "x-cache-handler": "cache-enabler-engine",
+  "x-provided-by": "StackCDN",
+  "x-origin-cache-status": "EXPIRED",
+  "content-encoding": "gzip",
+  "x-via": "LHR1",
+  "x-cdn-node-is-at-origin": "1",
+  "x-cdn-cache-status": "EXPIRED",
+  "transfer-encoding": "chunked"
+}

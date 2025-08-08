@@ -1,0 +1,50 @@
+{
+  "subject": [
+    [
+      [
+        "commonName",
+        "*.ai-centre.pk"
+      ]
+    ]
+  ],
+  "issuer": [
+    [
+      [
+        "countryName",
+        "US"
+      ]
+    ],
+    [
+      [
+        "organizationName",
+        "Let's Encrypt"
+      ]
+    ],
+    [
+      [
+        "commonName",
+        "R10"
+      ]
+    ]
+  ],
+  "version": 3,
+  "serialNumber": "050B5EA8436268F336B5F7296AE7597CD460",
+  "notBefore": "Jun 19 10:40:20 2025 GMT",
+  "notAfter": "Sep 17 10:40:19 2025 GMT",
+  "subjectAltName": [
+    [
+      "DNS",
+      "*.ai-centre.pk"
+    ],
+    [
+      "DNS",
+      "ai-centre.pk"
+    ]
+  ],
+  "caIssuers": [
+    "http://r10.i.lencr.org/"
+  ],
+  "crlDistributionPoints": [
+    "http://r10.c.lencr.org/97.crl"
+  ]
+}
